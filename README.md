@@ -1,3 +1,5 @@
+[![irc](https://img.shields.io/badge/IRC-%23sailfishos--porters%20on%20freenode-blue.svg)](https://webchat.freenode.net/?channels=sailfishos-porters)
+
 # Sailfish OS port for ZUK Z1 (ham)
 
 1. [Roadmap](https://github.com/Litew/sfos-ham/projects/1)  
