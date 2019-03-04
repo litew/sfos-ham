@@ -2,7 +2,7 @@
 
 # Sailfish OS port for ZUK Z1 (ham)
 
-1. [Roadmap](https://github.com/Litew/sfos-ham/projects/1)  
+1. [Roadmap](https://github.com/Litew/sfos-ham/projects/2)  
 2. [Issues](https://github.com/Litew/sfos-ham/issues)  
 3. Sources  
   [local manifests](https://github.com/Litew/local_manifests)  
